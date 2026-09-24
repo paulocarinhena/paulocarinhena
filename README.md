@@ -10,6 +10,8 @@
 <a href="https://github.com/paulocarinhena/RivetRook"><img src="assets/cassette-rivetrook.svg" width="49%" alt="RivetRook — AI tools manager for your terminal"></a>
 <a href="https://github.com/paulocarinhena/openRSS"><img src="assets/cassette-openrss.svg" width="49%" alt="openRSS — self-hosted RSS reader with built-in AI"></a>
 <br>
+<a href="https://github.com/paulocarinhena/OpenUsage"><img src="assets/cassette-openusage.svg" width="49%" alt="OpenUsage — AI plan limits in one tiny floating widget"></a>
+<br>
 <sub><b>B-side</b> → <a href="https://github.com/paulocarinhena/sqlServer_Scripts">sqlServer_Scripts</a> · handy scripts for SQL Server</sub>
 </p>
 
